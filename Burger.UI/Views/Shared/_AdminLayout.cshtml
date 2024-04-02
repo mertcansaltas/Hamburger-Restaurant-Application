@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "_AdminLayout";
+}
+
+<!doctype html>
+<html class="no-js" lang="zxx">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Burger</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="manifest" href="site.webmanifest"> -->
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <!-- Place favicon.ico in the root directory -->
+    <!-- CSS here -->
+    <link rel="stylesheet" href="~/Templete/burger-master/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/themify-icons.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/nice-select.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/flaticon.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/animate.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/slicknav.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/style.css">
+    <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+    <style>
+        .arkaplan {
+            background-color: #505050;
+        }
+
+        .main-header-area {
+            height: 50px;
+        }
+    </style>
+</head>
+<body>
+    <!-- header-start -->
+    <header>
+        <div class="header-area arkaplan">
+            <div id="sticky-header" class="main-header-area">
+                <div class="container-fluid p-0">
+                    <div class="row align-items-center no-gutters">
+                        <div class="col-xl-5 col-lg-5">
+                            <div class="main-menu  d-none d-lg-block">
+                                <nav>
+                                    <ul id="navigation">
+                                        <li><a asp-action="Index" asp-controller="MenuBurger" asp-area="Admin">Menuler</a></li>
+                                        <li><a asp-action="Index" asp-controller="Hamburger" asp-area="Admin">Hamburgerler</a></li>
+                                        <li><a asp-action="Index" asp-controller="Icecek" asp-area="Admin">Icecekler</a></li>
+                                        <li><a asp-action="Index" asp-controller="EkstraMalzeme" asp-area="Admin">Ekstra Malzemeler</a></li>
+                                        <li><a asp-action="Index" asp-controller="Sos" asp-area="Admin">Soslar</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+</body>
+<script src="~/Templete/burger-master/js/vendor/modernizr-3.5.0.min.js"></script>
+<script src="~/Templete/burger-master/js/vendor/jquery-1.12.4.min.js"></script>
+<script src="~/Templete/burger-master/js/popper.min.js"></script>
+<script src="~/Templete/burger-master/js/bootstrap.min.js"></script>
+<script src="~/Templete/burger-master/js/owl.carousel.min.js"></script>
+<script src="~/Templete/burger-master/js/isotope.pkgd.min.js"></script>
+<script src="~/Templete/burger-master/js/ajax-form.js"></script>
+<script src="~/Templete/burger-master/js/waypoints.min.js"></script>
+<script src="~/Templete/burger-master/js/jquery.counterup.min.js"></script>
+<script src="~/Templete/burger-master/js/imagesloaded.pkgd.min.js"></script>
+<script src="~/Templete/burger-master/js/scrollIt.js"></script>
+<script src="~/Templete/burger-master/js/jquery.scrollUp.min.js"></script>
+<script src="~/Templete/burger-master/js/wow.min.js"></script>
+<script src="~/Templete/burger-master/js/nice-select.min.js"></script>
+<script src="~/Templete/burger-master/js/jquery.slicknav.min.js"></script>
+<script src="~/Templete/burger-master/js/jquery.magnific-popup.min.js"></script>
+<script src="~/Templete/burger-master/js/plugins.js"></script>
+
+<!--contact js-->
+<script src="~/Templete/burger-master/js/contact.js"></script>
+<script src="~/Templete/burger-master/js/jquery.ajaxchimp.min.js"></script>
+<script src="~/Templete/burger-master/js/jquery.form.js"></script>
+<script src="~/Templete/burger-master/js/jquery.validate.min.js"></script>
+<script src="~/Templete/burger-master/js/mail-script.js"></script>
+
+<script src="~/Templete/burger-master/js/main.js"></script>
+</html>
+@RenderBody()

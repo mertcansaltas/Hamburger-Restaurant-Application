@@ -1,0 +1,40 @@
+﻿@using BurgerService.DTOs;
+@model SosCreateDTO
+
+<h4>EditVM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form id="sosForm">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Adi" class="control-label"></label>
+                <input asp-for="Adi" id="txtAdi" class="form-control" />
+                <span asp-validation-for="Adi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageFile" class="control-label"></label>
+                <input asp-for="ImageFile" class="form-control" />
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fiyat" class="control-label"></label>
+                <input asp-for="Fiyat" class="form-control" />
+                <span asp-validation-for="Fiyat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Aciklama" class="control-label"></label>
+                <input asp-for="Aciklama" class="form-control" />
+                <span asp-validation-for="Aciklama" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="button" id="btnGuncelle" asp-controller="Sos" asp-action="Edit" method="post" class="btn btn-outline-warning">Güncelle</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a id="backToList" asp-action="Index" asp-controller="Sos">Back to List</a>
+</div>

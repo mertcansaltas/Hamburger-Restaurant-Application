@@ -1,0 +1,710 @@
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\MVC\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\PC\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\pc\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\refint\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\BurgerDATA.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\MVCPROJE.ENTITIES\obj\Debug\net6.0\ref\BurgerDATA.dll

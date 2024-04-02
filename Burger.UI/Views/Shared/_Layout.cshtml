@@ -1,0 +1,230 @@
+﻿@{
+    Layout = null;
+}
+
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Burger</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="manifest" href="site.webmanifest"> -->
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <!-- Place favicon.ico in the root directory -->
+    <!-- CSS here -->
+    <link rel="stylesheet" href="~/Templete/burger-master/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/themify-icons.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/nice-select.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/flaticon.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/animate.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/slicknav.css">
+    <link rel="stylesheet" href="~/Templete/burger-master/css/style.css">
+    <script src="https://kit.fontawesome.com/2719360a90.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300..800;1,300..800&family=Truculenta:opsz,wght@12..72,100..900&display=swap" rel="stylesheet">
+    <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+    <style>
+        .menu-list ul li a {
+            font-size: 100px; /* Yazı tipini küçültmek için */
+            font-family: "Truculenta", sans-serif;
+            font-style: normal;
+            font-weight: 100;
+            display: inline-block;
+            margin-right: 5px;
+        }
+
+        .main-menu {
+            padding-left: 0px; /* Menü başlıklarını sola dayamak için */
+        }
+
+
+        .menu-list li {
+            display: inline-block;
+            margin-right: 20px; /* Her menü öğesi arasında boşluk bırakır */
+        }
+
+        .menu-list ul li a {
+            font-family: "Truculenta", sans-serif; /* Google Font'tan fontu alır */
+            font-size: 16px; /* Yazı boyutunu ayarlar */
+        }
+    </style>
+
+</head>
+<body>
+    <!-- header-start -->
+    <header>
+        <div class="header-area bg-dark">
+            <div id="sticky-header" class="main-header-area">
+                <div class="container-fluid p-0">
+                    <div class="row align-items-center no-gutters">
+                        <div class="col-xl-5 col-lg-5">
+                            <div class="main-menu d-none d-lg-block">
+                                <nav class="menu-list">
+                                    <ul id="navigation" class="d-flex">
+                                        <li><a class="active" href="@Url.Action("Index","Home")">DevlopBurger</a></li>
+                                        <li><a href="@Url.Action("Index","About")">Hakkımızda</a></li>
+                                        <li><a href="@Url.Action("Index","Menuler")">Menüler</a></li>
+                                        <li><a href="@Url.Action("Index","Hamburger")">Hamburgerler</a></li>
+                                        <li><a href="@Url.Action("Index","Icecek")">İçecekler</a></li>
+                                        <li><a href="@Url.Action("Index","Sos")">Soslar</a></li>
+                                        <li><a href="@Url.Action("Index","EkstraMalzeme")">Ekstra Malzemeler</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2"></div>
+                        <div class="col-xl-5 col-lg-5 d-none d-lg-block">
+                            <div class="book_room d-flex justify-content-end">
+                                <div class="socail_links class="deal_text">
+                                    <ul>
+                                        @if (User.Identity.IsAuthenticated)
+                                        {
+                                            <li><a class="text-white" href="#" >@User.Identity.Name</a></li>
+                                            <li><div class="book_btn d-none d-sm-block ml-3"><a asp-area="" asp-controller="Account" asp-action="Logout"><i class="fa-solid fa-arrow-right-from-bracket text-white"></i></a></div></li>
+                                            <li><div class="book_btn d-none d-sm-block ml-3"><a asp-area="" asp-controller="Siparis" asp-action="Siparislerim"><i class="fa-brands fa-shopify"></i></a></div></li>
+                                        }
+                                        else
+                                        {
+                                            <li><div class="book_btn d-none d-sm-block"><a class="nav-link text-white" asp-area="" asp-controller="Account" asp-action="Login"><i class="fa fa-user" aria-hidden="true"></i></a></div></li>
+                                            <li><div class="book_btn d-none d-sm-block"><a class="nav-link text-white" asp-area="" asp-controller="Account" asp-action="Register"><i class="fa-solid fa-user-plus"></i></a></div></li>
+                                        }
+                                        <li><div class="book_btn d-none d-sm-block ml-3"><a asp-action="Index" asp-controller="Sepet"><i class="fa fa-shopping-cart" aria-hidden="true" text="white"></i></a></div></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="mobile_menu d-block d-lg-none"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+</body>
+<!-- header-end -->
+@RenderBody()
+@RenderSection("Styles", required: false)
+@RenderSection("scripts", required: false)
+<!-- footer_start  -->
+<footer class="footer">
+    <div class="footer_top">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="footer_widget text-center ">
+                        <h3 class="footer_title pos_margin">
+                            İstanbul
+                        </h3>
+                        <p>
+                            Fatih Mah. , <br>
+                            Alkan Cad. No:87 Kadıköy, İstanbul <br>
+                            <a href="#">info@devlopburger.com</a>
+                        </p>
+                        <a class="number" href="#">0216 340 34 34</a>
+
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="footer_widget text-center ">
+                        <h3 class="footer_title pos_margin">
+                            İstanbul
+                        </h3>
+                        <p>
+                            Gül Mah., <br>
+                            Artman Cad. No:45 Göztepe,İstanbul <br>
+                            <a href="#">info@devlopburger.com</a>
+                        </p>
+                        <a class="number" href="#">0216 123 06 34</a>
+                        <div class="book_btn d-none d-xl-block">
+                            <a class="#" href="#"><i class="fa fa-shopping-cart" aria-hidden="true" text="white"></i></a>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-12">
+                        <div class="socail_links text-center">
+                            <ul>
+                                <li>
+                                    <a href="#">
+                                        <i class="ti-instagram"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="ti-twitter-alt"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="ti-facebook"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-google-plus"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copy-right_text">
+            <div class="container">
+                <div class="footer_border"></div>
+                <div class="row">
+                    <div class="col-xl-12">
+                        <p class="copy_right text-center">
+                            Copyright &copy;<script>document.write(new Date().getFullYear());</script>"Tüm hakları saklıdır. <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href=#>Developers Mehmet- Mert Can - İrem - Tuğba</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</footer>
+<!-- footer_end  -->
+<!-- JS here -->
+<script src="~/Templete/burger-master/js/vendor/modernizr-3.5.0.min.js"></script>
+<script src="~/Templete/burger-master/js/vendor/jquery-1.12.4.min.js"></script>
+<script src="~/Templete/burger-master/js/popper.min.js"></script>
+<script src="~/Templete/burger-master/js/bootstrap.min.js"></script>
+<script src="~/Templete/burger-master/js/owl.carousel.min.js"></script>
+<script src="~/Templete/burger-master/js/isotope.pkgd.min.js"></script>
+<script src="~/Templete/burger-master/js/ajax-form.js"></script>
+<script src="~/Templete/burger-master/js/waypoints.min.js"></script>
+<script src="~/Templete/burger-master/js/jquery.counterup.min.js"></script>
+<script src="~/Templete/burger-master/js/imagesloaded.pkgd.min.js"></script>
+<script src="~/Templete/burger-master/js/scrollIt.js"></script>
+<script src="~/Templete/burger-master/js/jquery.scrollUp.min.js"></script>
+<script src="~/Templete/burger-master/js/wow.min.js"></script>
+<script src="~/Templete/burger-master/js/nice-select.min.js"></script>
+<script src="~/Templete/burger-master/js/jquery.slicknav.min.js"></script>
+<script src="~/Templete/burger-master/js/jquery.magnific-popup.min.js"></script>
+<script src="~/Templete/burger-master/js/plugins.js"></script>
+
+<!--contact js-->
+<script src="~/Templete/burger-master/js/contact.js"></script>
+<script src="~/Templete/burger-master/js/jquery.ajaxchimp.min.js"></script>
+<script src="~/Templete/burger-master/js/jquery.form.js"></script>
+<script src="~/Templete/burger-master/js/jquery.validate.min.js"></script>
+<script src="~/Templete/burger-master/js/mail-script.js"></script>
+
+<script src="~/Templete/burger-master/js/main.js"></script>
+
+</html>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MVCPROJE.ENTITIES/1.0.0": {
+        "runtime": {
+          "MVCPROJE.ENTITIES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVCPROJE.ENTITIES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

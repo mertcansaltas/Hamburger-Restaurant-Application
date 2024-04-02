@@ -1,0 +1,65 @@
+﻿@model List<Sos>
+@{
+    Layout = "_Layout";
+}
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Icecek</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body>
+    <!-- bradcam_area_start -->
+    <div class="bradcam_area breadcam_bg overlay">
+        <h3>SOSLAR</h3>
+    </div>
+    <!-- bradcam_area_end -->
+    <!-- best_burgers_area_start  -->
+    <div class="best_burgers_area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section_title text-center mb-80">
+         
+                      
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- best_burgers_area_end  -->
+    <!-- features_room_startt -->
+    <div class="Burger_President_area">
+        <div class="Burger_President_here">
+            @foreach (var sos in Model)
+            {
+                <div class="single_Burger_President">
+                    <div class="room_thumb">
+                        <img src="~/Templete/burger-master/img/burger/sos.png" alt="">
+                        <div class="room_heading d-flex justify-content-between align-items-center">
+                            <div class="room_heading_inner">
+                                <span>@sos.Fiyat</span>
+                                <h3>@sos.Adi</h3>
+                                <p>@sos.Aciklama</p>
+                                <a asp-action="SepeteSosEkle" asp-controller="Sos" asp-route-id="@sos.ID" class="boxed-btn3">Sepete Ekle</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    <!-- features_room_end -->
+    <!-- testimonial_area_start  -->
+   
+
+</body>
+
+</html>

@@ -1,0 +1,400 @@
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\pc\Desktop\MVCPROJEDENEME 2\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\PC\Desktop\MVCPROJE\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\PC\Desktop\MigrationliIdentityy\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\pc\Desktop\IDentityBurger\IDentityBurger\MVCPROJE\MVCPROJEDENEME\MVCPROJEDENEME\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\Lenovo\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\Autocad\Desktop\MVC\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\PC\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\pc\Desktop\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\PC\Desktop\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\Autocad\Desktop\MVCSon3\MVCSon 3\MVCSon\MVCSon\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\Lenovo\Desktop\MVCSon\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\Autocad\Desktop\MVCCuma21.40\MVCSon\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\pc\Desktop\MVCCumaGEceSon\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\pc\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\Lenovo\Desktop\MVCCumartesi\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\Autocad\Desktop\MVCPazarsabahiıı\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\Lenovo\Desktop\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\pc\Desktop\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\Autocad\Desktop\MVCPazarSon\MVCPazarsabahi 1\MVCPazarsabahi\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.deps.json
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.exe
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\bin\Debug\net6.0\BurgerService.deps.json
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\bin\Debug\net6.0\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\bin\Debug\net6.0\BurgerService.pdb
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\bin\Debug\net6.0\BurgerREPO.pdb
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\bin\Debug\net6.0\BurgerDATA.pdb
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\obj\Debug\net6.0\BurgerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\obj\Debug\net6.0\BurgerService.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\obj\Debug\net6.0\BurgerService.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\obj\Debug\net6.0\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\obj\Debug\net6.0\refint\BurgerService.dll
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\obj\Debug\net6.0\BurgerService.pdb
+C:\Users\Lenovo\Desktop\MVCHamburger\MVC\BurgerService\obj\Debug\net6.0\ref\BurgerService.dll

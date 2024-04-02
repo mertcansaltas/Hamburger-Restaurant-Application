@@ -1,0 +1,1389 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Burger.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Burger.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\Sarı Hareketli Yiyecek Hamburger Reklamı Mobil Video 1.mp4",
+      "PackagePath": "staticwebassets\\Templete\\Sarı Hareketli Yiyecek Hamburger Reklamı Mobil Video 1.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\Menu.html",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\Menu.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\about.html",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\blog.html",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\index.html",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\burger Doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\contact.html",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\contact_process.php",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\contact_process.php"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\style.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\style.map",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\style.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\theme-default.map",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\theme-default.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\elements.html",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\about\\1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\about\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\about\\2.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\about\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\banner\\banner.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\banner\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\banner\\banner2.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\banner\\banner2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\banner\\bradcam.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\banner\\bradcam.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\banner\\bradcam2.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\banner\\bradcam2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\banner\\bradcam3.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\banner\\bradcam3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\banner\\burger_bg.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\banner\\burger_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\banner\\burger_bg_1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\banner\\burger_bg_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\banner\\footer_bg.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\banner\\footer_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\blog\\blog_1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\blog\\blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\blog\\blog_2.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\blog\\blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\blog\\blog_3.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\blog\\blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\burger\\1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\burger\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\burger\\2.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\burger\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\burger\\3.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\burger\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\burger\\4.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\burger\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\burger\\5.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\burger\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\burger\\6.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\burger\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\burger\\7.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\burger\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\burger\\8.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\burger\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\burger\\Fanta.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\burger\\Fanta.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\burger\\ekstramalzeme.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\burger\\ekstramalzeme.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\burger\\sos.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\burger\\sos.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\burgers\\1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\burgers\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\burgers\\2.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\burgers\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\gallery\\1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\gallery\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\gallery\\2.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\gallery\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\gallery\\3.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\gallery\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\gallery\\4.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\gallery\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\gallery\\5.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\gallery\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\gallery\\6.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\gallery\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\instragram\\1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\instragram\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\instragram\\2.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\instragram\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\instragram\\3.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\instragram\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\instragram\\4.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\instragram\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\jessica-signature.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\jessica-signature.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\offers\\1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\offers\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\offers\\2.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\offers\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\offers\\3.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\offers\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\shape\\1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\shape\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\testmonial\\1.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\testmonial\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\testmonial\\2.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\testmonial\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\testmonial\\3.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\testmonial\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\img\\video\\video.png",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\img\\video\\video.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\index.html",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\contact.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\main.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\nice-select.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\scrollIt.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\scrollIt.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\main.html",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\main.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\readme.txt",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_about.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_blog_part.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_blog_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_btn.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_btn.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_delicious.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_delicious.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_gallery.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_offers.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_offers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_responsive.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_section_title.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_section_title.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_slick-nav.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_slick-nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_slider.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_testmonial.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_testmonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\_varriable.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\_varriable.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\Templete\\burger-master\\single-blog.html",
+      "PackagePath": "staticwebassets\\Templete\\burger-master\\single-blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\1838a9b1-d5fb-4820-9381-c8435ced4322_f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png",
+      "PackagePath": "staticwebassets\\img\\1838a9b1-d5fb-4820-9381-c8435ced4322_f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\35130ffa-0903-4f79-a019-f0a523c1c40d_sos.png",
+      "PackagePath": "staticwebassets\\img\\35130ffa-0903-4f79-a019-f0a523c1c40d_sos.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\43d0f374-3b2f-4c81-9616-3914ebb4a7c4_f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png",
+      "PackagePath": "staticwebassets\\img\\43d0f374-3b2f-4c81-9616-3914ebb4a7c4_f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\49ea1115-f17f-4a26-b84a-041f95be9618_ChickenBurger.png",
+      "PackagePath": "staticwebassets\\img\\49ea1115-f17f-4a26-b84a-041f95be9618_ChickenBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\54c870a1-32ee-46d4-9c0c-eae17e66a7ba_Doublechicken.png",
+      "PackagePath": "staticwebassets\\img\\54c870a1-32ee-46d4-9c0c-eae17e66a7ba_Doublechicken.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\609f1647-74d1-4377-846a-4edbecad3def_f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png",
+      "PackagePath": "staticwebassets\\img\\609f1647-74d1-4377-846a-4edbecad3def_f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\60c2cdd4-74e8-45ea-a5cb-ca68cc9ab935_ChickenBurger.png",
+      "PackagePath": "staticwebassets\\img\\60c2cdd4-74e8-45ea-a5cb-ca68cc9ab935_ChickenBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\65549288-d9a5-4c11-8696-bc06bd085cc1_f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png",
+      "PackagePath": "staticwebassets\\img\\65549288-d9a5-4c11-8696-bc06bd085cc1_f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\67408bec-c505-467d-83bb-082f6b8ebf43_ChickenBurger.png",
+      "PackagePath": "staticwebassets\\img\\67408bec-c505-467d-83bb-082f6b8ebf43_ChickenBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\7f139fe4-9d3d-4659-9ec0-bcbd137adbe1_f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png",
+      "PackagePath": "staticwebassets\\img\\7f139fe4-9d3d-4659-9ec0-bcbd137adbe1_f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\8a44290f-077d-40b0-8e4a-ae24e6034c0a_895e857e-4b20-4ea5-93a2-d9a781bf9ba4-doublechickentek.png",
+      "PackagePath": "staticwebassets\\img\\8a44290f-077d-40b0-8e4a-ae24e6034c0a_895e857e-4b20-4ea5-93a2-d9a781bf9ba4-doublechickentek.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\973e172e-bde4-4070-bc53-a51f70eec695_ds.PNG",
+      "PackagePath": "staticwebassets\\img\\973e172e-bde4-4070-bc53-a51f70eec695_ds.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\ChickenBurger.png",
+      "PackagePath": "staticwebassets\\img\\ChickenBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\ChickenBurger.png.png",
+      "PackagePath": "staticwebassets\\img\\ChickenBurger.png.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\a49e32a9-4396-4841-a0e6-25cee554bf17_fanta.jpg",
+      "PackagePath": "staticwebassets\\img\\a49e32a9-4396-4841-a0e6-25cee554bf17_fanta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\b23f985c-5576-4b41-962d-d6ea0f891568_image (10).png",
+      "PackagePath": "staticwebassets\\img\\b23f985c-5576-4b41-962d-d6ea0f891568_image (10).png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\b74b8803-0625-42dd-b159-866e358f7c3a_Fanta.png",
+      "PackagePath": "staticwebassets\\img\\b74b8803-0625-42dd-b159-866e358f7c3a_Fanta.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\b8f5a649-2a22-4353-b708-99124448e958_ChickenBurger.png",
+      "PackagePath": "staticwebassets\\img\\b8f5a649-2a22-4353-b708-99124448e958_ChickenBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\c1122751-3e2d-4f58-a2b3-5cb74c3fd4a6_ChickenBurger.png",
+      "PackagePath": "staticwebassets\\img\\c1122751-3e2d-4f58-a2b3-5cb74c3fd4a6_ChickenBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\c2ca9a14-e817-4c89-8b3f-ed699f3c0356_f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png",
+      "PackagePath": "staticwebassets\\img\\c2ca9a14-e817-4c89-8b3f-ed699f3c0356_f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\cf934224-0ee4-4691-bb98-1f2fa5b883d3_ChickenBurger.png",
+      "PackagePath": "staticwebassets\\img\\cf934224-0ee4-4691-bb98-1f2fa5b883d3_ChickenBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\e11127c7-9c2f-4e49-ae62-0877da2c272d_image (5).png",
+      "PackagePath": "staticwebassets\\img\\e11127c7-9c2f-4e49-ae62-0877da2c272d_image (5).png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\e1b6f55e-9ec4-4f9b-b5df-20367f7e1674_Screenshot 2023-02-24 120639.png",
+      "PackagePath": "staticwebassets\\img\\e1b6f55e-9ec4-4f9b-b5df-20367f7e1674_Screenshot 2023-02-24 120639.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\f323b0c9-4381-4a4d-853c-eb7b8d53cc3f_ChickenBurger.png",
+      "PackagePath": "staticwebassets\\img\\f323b0c9-4381-4a4d-853c-eb7b8d53cc3f_ChickenBurger.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\img\\f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png",
+      "PackagePath": "staticwebassets\\img\\f51ce1b8-a550-4f3d-96d3-46960466b585-doublecheeseburgertek.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\MVCHamburger\\MVC\\Burger.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Burger.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Burger.UI.props",
+      "PackagePath": "build\\Burger.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Burger.UI.props",
+      "PackagePath": "buildMultiTargeting\\Burger.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Burger.UI.props",
+      "PackagePath": "buildTransitive\\Burger.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

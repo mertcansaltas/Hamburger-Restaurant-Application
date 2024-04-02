@@ -1,0 +1,99 @@
+﻿@using MVCPROJE.ENTITIES.Concrete;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model List<Menu>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<style>
+    body {
+        background-color: #dbd4a2; /* Hafif gri tonu */
+    }
+
+    .resim {
+        background-image: url('/wwwroot/img/BURGER.png');
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 20px auto;
+    }
+
+    .card {
+        border-radius: 15px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+        transition: transform 0.3s;
+        width: 300px;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+    .card-img-top {
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        height: 200px;
+        object-fit: cover;
+    }
+
+    .card-body {
+        padding: 20px;
+    }
+
+    .card-title {
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+
+    .card-text {
+        color: #555;
+        margin-top: 10px;
+    }
+
+    .btn-edit {
+        background-color: #ffc107;
+        border-color: #ffc107;
+        color: #fff;
+    }
+
+    .btn-delete {
+        background-color: #dc3545;
+        border-color: #dc3545;
+        color: #fff;
+    }
+
+    .btn-renk {
+        background-color: #339933;
+    }
+</style>
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-12 text-end mt-4 mb-4">
+            <a href="@Url.Action("Create", "MenuBurger")" class="btn btn-renk text-white ">Yeni Ürün Ekle</a>
+        </div>
+    </div>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="@Url.Content("~/img/" + item.Resim)" class="card-img-top" alt="Resim">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Adi</h5>
+                        <p class="card-text">@item.Aciklama</p>
+                        <p class="card-text">@item.Fiyat ₺</p>
+                        <div class="text-end">
+                            <a href="@Url.Action("Edit", "MenuBurger", new { id = item.ID })" class="btn btn-sm btn-edit">Düzenle</a>
+                            <a href="@Url.Action("Delete", "MenuBurger", new { id = item.ID })" class="btn btn-sm btn-delete">Sil</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+
