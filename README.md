@@ -1,3 +1,4 @@
+Bu projede, C#, .NET Framework, Entity Framework ve MSSQL kullanarak OOP prensiplerine uygun bir hamburger sipariş uygulaması geliştirdim. MVC mimarisi ile yapılandırılan uygulama, HTML, CSS ve JavaScript ile zenginleştirilmiş kullanıcı dostu bir arayüz sunar. GitHub üzerinde açık kaynak olarak paylaşıyorum, böylece geliştiriciler kodları inceleyebilir, önerilerde bulunabilir ve uygulamayı daha da geliştirebilirler.
 
 ![sl6](https://github.com/mertcansaltas/Calorie-Tracking-Application/assets/150259943/d5718dd0-0e6a-4fbb-8941-98d0c2361056)
 ![sl5](https://github.com/mertcansaltas/Calorie-Tracking-Application/assets/150259943/a3606635-af6d-4016-a3e4-53c4bab026a8)
